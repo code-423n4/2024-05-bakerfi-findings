@@ -1,0 +1,8 @@
+{
+  "contest": 378,
+  "handle": "zhaojie",
+  "risk": "3",
+  "title": "BalancerFlashLender#receiveFlashLoan does not validate the originalCallData",
+  "issueId": 2,
+  "issueUrl": "https://github.com/code-423n4/2024-05-bakerfi-findings/issues/2"
+}
