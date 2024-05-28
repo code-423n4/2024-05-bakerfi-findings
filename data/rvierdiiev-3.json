@@ -1,0 +1,8 @@
+{
+  "contest": 378,
+  "handle": "rvierdiiev",
+  "risk": "2",
+  "title": "Hardcoded uniswap fee tier may cause dos of harvest functionality",
+  "issueId": 3,
+  "issueUrl": "https://github.com/code-423n4/2024-05-bakerfi-findings/issues/3"
+}
