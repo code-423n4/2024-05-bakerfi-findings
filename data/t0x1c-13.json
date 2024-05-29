@@ -1,0 +1,8 @@
+{
+  "contest": 378,
+  "handle": "t0x1c",
+  "risk": "2",
+  "title": "Unused user funds not refunded after `exactInputSingle()` swap",
+  "issueId": 13,
+  "issueUrl": "https://github.com/code-423n4/2024-05-bakerfi-findings/issues/13"
+}
