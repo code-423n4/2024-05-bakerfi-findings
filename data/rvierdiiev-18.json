@@ -1,0 +1,8 @@
+{
+  "contest": 378,
+  "handle": "rvierdiiev",
+  "risk": "2",
+  "title": "No check if sequencer is active",
+  "issueId": 18,
+  "issueUrl": "https://github.com/code-423n4/2024-05-bakerfi-findings/issues/18"
+}
