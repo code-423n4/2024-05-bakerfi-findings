@@ -1,0 +1,8 @@
+{
+  "contest": 378,
+  "handle": "t0x1c",
+  "risk": "2",
+  "title": "Missing slippage in the call to `exactInputSingle()` inside `UseSwapper::_swap()`",
+  "issueId": 17,
+  "issueUrl": "https://github.com/code-423n4/2024-05-bakerfi-findings/issues/17"
+}
