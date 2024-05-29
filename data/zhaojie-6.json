@@ -1,0 +1,8 @@
+{
+  "contest": 378,
+  "handle": "zhaojie",
+  "risk": "3",
+  "title": "An attacker can extract someone else's `ShareReward`",
+  "issueId": 6,
+  "issueUrl": "https://github.com/code-423n4/2024-05-bakerfi-findings/issues/6"
+}
