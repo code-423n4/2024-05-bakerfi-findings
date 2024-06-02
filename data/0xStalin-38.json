@@ -1,0 +1,8 @@
+{
+  "contest": 378,
+  "handle": "0xStalin",
+  "risk": "3",
+  "title": "When harvesting a strategy and adjusting the debt, all the leftover collateral that is not used to swap the withdrawn collateral from Aave for WETH to repay the flashloan will be locked and lost in the Strategy contract",
+  "issueId": 38,
+  "issueUrl": "https://github.com/code-423n4/2024-05-bakerfi-findings/issues/38"
+}
