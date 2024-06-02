@@ -1,0 +1,8 @@
+{
+  "contest": 378,
+  "handle": "0xStalin",
+  "risk": "2",
+  "title": "All supplied WETH to Aave as a deposit by a Strategy will be irrecoverable.",
+  "issueId": 41,
+  "issueUrl": "https://github.com/code-423n4/2024-05-bakerfi-findings/issues/41"
+}
