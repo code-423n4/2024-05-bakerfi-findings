@@ -1,0 +1,8 @@
+{
+  "contest": 378,
+  "handle": "0xStalin",
+  "risk": "2",
+  "title": "Attacker can DoS deposits to a new Vault",
+  "issueId": 43,
+  "issueUrl": "https://github.com/code-423n4/2024-05-bakerfi-findings/issues/43"
+}
