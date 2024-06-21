@@ -16,5 +16,5 @@ jobs:
         uses: code-423n4/repo-moderator@main
         with:
           github-token: ${{ secrets.ACTIONS_TOKEN }}
-          sponsor-team-slug: "22024-05-bakerfi-sponsors"
+          sponsor-team-slug: "2024-05-bakerfi-sponsors"
           allowed-labels: "sponsor confirmed, sponsor disputed, sponsor acknowledged"
